@@ -1,0 +1,14 @@
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\bin\Debug\net8.0\GestionEmpleadosGUIA.exe
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\bin\Debug\net8.0\GestionEmpleadosGUIA.deps.json
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\bin\Debug\net8.0\GestionEmpleadosGUIA.runtimeconfig.json
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\bin\Debug\net8.0\GestionEmpleadosGUIA.dll
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\bin\Debug\net8.0\GestionEmpleadosGUIA.pdb
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\GestionEmpleadosGUIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\GestionEmpleadosGUIA.AssemblyInfoInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\GestionEmpleadosGUIA.AssemblyInfo.cs
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\GestionEmpleadosGUIA.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\GestionEmpleadosGUIA.dll
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\refint\GestionEmpleadosGUIA.dll
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\GestionEmpleadosGUIA.pdb
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\GestionEmpleadosGUIA.genruntimeconfig.cache
+C:\Users\alexl\OneDrive\Escritorio\GestionEmpleadosGUIA\GestionEmpleadosGUIA\obj\Debug\net8.0\ref\GestionEmpleadosGUIA.dll

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\MetodoExtension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40120B99-574F-4883-A196-46CC857C4824}|MetodoExtension\\MetodoExtension.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion11\\metodoextension\\metodoextension\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40120B99-574F-4883-A196-46CC857C4824}|MetodoExtension\\MetodoExtension.csproj|solutionrelative:metodoextension\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40120B99-574F-4883-A196-46CC857C4824}|MetodoExtension\\MetodoExtension.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion11\\metodoextension\\metodoextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40120B99-574F-4883-A196-46CC857C4824}|MetodoExtension\\MetodoExtension.csproj|solutionrelative:metodoextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\MetodoExtension\\MetodoExtension\\Persona.cs",
+              "RelativeDocumentMoniker": "MetodoExtension\\Persona.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\MetodoExtension\\MetodoExtension\\Persona.cs*",
+              "RelativeToolTip": "MetodoExtension\\Persona.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:46:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\MetodoExtension\\MetodoExtension\\Program.cs",
+              "RelativeDocumentMoniker": "MetodoExtension\\Program.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\MetodoExtension\\MetodoExtension\\Program.cs",
+              "RelativeToolTip": "MetodoExtension\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:35:23.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

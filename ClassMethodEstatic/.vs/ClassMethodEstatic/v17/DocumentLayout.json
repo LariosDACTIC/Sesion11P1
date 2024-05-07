@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\ClassMethodEstatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EC306-2990-4FF2-AA91-7FEFBB29F229}|ClassMethodEstatic\\ClassMethodEstatic.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion11\\classmethodestatic\\classmethodestatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EC306-2990-4FF2-AA91-7FEFBB29F229}|ClassMethodEstatic\\ClassMethodEstatic.csproj|solutionrelative:classmethodestatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EC306-2990-4FF2-AA91-7FEFBB29F229}|ClassMethodEstatic\\ClassMethodEstatic.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion11\\classmethodestatic\\classmethodestatic\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EC306-2990-4FF2-AA91-7FEFBB29F229}|ClassMethodEstatic\\ClassMethodEstatic.csproj|solutionrelative:classmethodestatic\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EC306-2990-4FF2-AA91-7FEFBB29F229}|ClassMethodEstatic\\ClassMethodEstatic.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion11\\classmethodestatic\\classmethodestatic\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EC306-2990-4FF2-AA91-7FEFBB29F229}|ClassMethodEstatic\\ClassMethodEstatic.csproj|solutionrelative:classmethodestatic\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\ClassMethodEstatic\\ClassMethodEstatic\\Persona.cs",
+              "RelativeDocumentMoniker": "ClassMethodEstatic\\Persona.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\ClassMethodEstatic\\ClassMethodEstatic\\Persona.cs",
+              "RelativeToolTip": "ClassMethodEstatic\\Persona.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:28:39.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\ClassMethodEstatic\\ClassMethodEstatic\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ClassMethodEstatic\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\ClassMethodEstatic\\ClassMethodEstatic\\Calculadora.cs",
+              "RelativeToolTip": "ClassMethodEstatic\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:10:25.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\ClassMethodEstatic\\ClassMethodEstatic\\Program.cs",
+              "RelativeDocumentMoniker": "ClassMethodEstatic\\Program.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\ClassMethodEstatic\\ClassMethodEstatic\\Program.cs",
+              "RelativeToolTip": "ClassMethodEstatic\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:09:26.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.exe
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.deps.json
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.runtimeconfig.json
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.dll
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.pdb
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfoInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfo.cs
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.dll
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\refint\NestedClass.dll
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.pdb
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.genruntimeconfig.cache
+C:\Users\alexl\OneDrive\Escritorio\NestedClass\NestedClass\obj\Debug\net8.0\ref\NestedClass.dll

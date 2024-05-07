@@ -1,0 +1,14 @@
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\bin\Debug\net8.0\ClassEnum.exe
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\bin\Debug\net8.0\ClassEnum.deps.json
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\bin\Debug\net8.0\ClassEnum.runtimeconfig.json
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\bin\Debug\net8.0\ClassEnum.dll
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\bin\Debug\net8.0\ClassEnum.pdb
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ClassEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ClassEnum.AssemblyInfoInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ClassEnum.AssemblyInfo.cs
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ClassEnum.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ClassEnum.dll
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\refint\ClassEnum.dll
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ClassEnum.pdb
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ClassEnum.genruntimeconfig.cache
+C:\Users\alexl\OneDrive\Escritorio\ClassEnum\ClassEnum\obj\Debug\net8.0\ref\ClassEnum.dll

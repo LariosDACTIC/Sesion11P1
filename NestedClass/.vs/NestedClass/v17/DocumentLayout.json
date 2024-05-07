@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\NestedClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B5AB1B-2359-427F-9A87-527AC029FDE0}|NestedClass\\NestedClass.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion11\\nestedclass\\nestedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B5AB1B-2359-427F-9A87-527AC029FDE0}|NestedClass\\NestedClass.csproj|solutionrelative:nestedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B5AB1B-2359-427F-9A87-527AC029FDE0}|NestedClass\\NestedClass.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion11\\nestedclass\\nestedclass\\outerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B5AB1B-2359-427F-9A87-527AC029FDE0}|NestedClass\\NestedClass.csproj|solutionrelative:nestedclass\\outerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OuterClass.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\NestedClass\\NestedClass\\OuterClass.cs",
+              "RelativeDocumentMoniker": "NestedClass\\OuterClass.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\NestedClass\\NestedClass\\OuterClass.cs",
+              "RelativeToolTip": "NestedClass\\OuterClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:46:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\NestedClass\\NestedClass\\Program.cs",
+              "RelativeDocumentMoniker": "NestedClass\\Program.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion11\\NestedClass\\NestedClass\\Program.cs",
+              "RelativeToolTip": "NestedClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:38:33.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.exe
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.deps.json
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.runtimeconfig.json
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.dll
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.pdb
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.AssemblyInfoInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.AssemblyInfo.cs
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.dll
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\refint\ClassMethodEstatic.dll
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.pdb
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.genruntimeconfig.cache
+C:\Users\alexl\OneDrive\Escritorio\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ref\ClassMethodEstatic.dll
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.exe
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.deps.json
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.runtimeconfig.json
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.dll
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\bin\Debug\net8.0\ClassMethodEstatic.pdb
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.AssemblyInfoInputs.cache
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.AssemblyInfo.cs
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.dll
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\refint\ClassMethodEstatic.dll
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.pdb
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ClassMethodEstatic.genruntimeconfig.cache
+C:\Users\alexl\OneDrive\Documentos\CLASES UNI\Programacion l\Paralelo Programacion 1 - 2024\Sesiones\Unidad2\sesion11\ClassMethodEstatic\ClassMethodEstatic\obj\Debug\net8.0\ref\ClassMethodEstatic.dll
